@@ -1,5 +1,5 @@
 #using the get method for a mini chat bot
-"""automated_response={"greeting":"hello how are you doing today?","response":"what can i help you with?"}
+automated_response={"greeting":"hello how are you doing today?","response":"what can i help you with?"}
 print("welcome to my mini chatbot")
 user_name=input(" Enter your name: ")
 user_greeting=input(" Enter a greeting e.g(hello): ")
@@ -7,7 +7,7 @@ if user_greeting=="hello":
     print(automated_response.get("greeting"))
     print(automated_response.get("response"))
 else:
-    print("enter hello.")"""
+    print("enter hello.")
 
 #using the keys method to return the list of all the keys in a dictionary
 name_of_students={"student1":"emmanuel","student2":"samuel","student3":"simeon"}
