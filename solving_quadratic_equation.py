@@ -1,3 +1,4 @@
+"""this code is used to solve quadratic formula by accepting inputs from the user"""
 user_name=input("enter your name pls: ")
 print("HI {}".format(user_name))
 print("This program will be calculating the quadratic formula testing with values 2,3,-1: ")
