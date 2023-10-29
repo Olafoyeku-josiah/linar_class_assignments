@@ -1,4 +1,6 @@
 #accepting variables l,f,w,n,s from the user to solve the mathematical problem
+"""This code is used to solve a particular mathematical problem by accepting inputs from the user as integer
+and then prints out the solution/answer """
 formula_variable1=int(input("enter the values for the variable L:"))
 print("the value for L is: {}".format(formula_variable1))
 
